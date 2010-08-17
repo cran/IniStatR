@@ -1,0 +1,7 @@
+# functions
+export(cvar) 
+export(eta2) 
+export(panel.hist) 
+export(poi.ci) 
+export(binom.ci) 
+export(plotcdf2) 
